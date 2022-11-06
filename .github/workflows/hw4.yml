@@ -22,4 +22,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a Python hw4 
-        run: python .github/workflows/time-series-basics-exploring-traditional-ts.ipynb
+        run: python vd.py
